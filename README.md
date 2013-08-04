@@ -15,6 +15,7 @@ Steve Losh for his [clojure-lanterna](http://sjl.bitbucket.org/clojure-lanterna/
 
 ## Todo
 * Handle eating the apple better. Atm. it's an atom...
+* `:dir-fn` could be replaced by multimethods
 
 ## License
 
